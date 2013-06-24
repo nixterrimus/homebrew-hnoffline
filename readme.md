@@ -6,7 +6,7 @@ This is a tap for installing
 
 ## Install
 
-- `brew tap nixterrimus/hn-offline-brew`
+- `brew tap nixterrimus/hnoffline`
 - `brew install hn-offline`
 
 ## Author
